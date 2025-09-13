@@ -23,9 +23,6 @@ jobs:
 
       - name: Build React app
         run: npm run build
-        
-      - name: deploy React app
-        run: npm run deploy
 
 
         
